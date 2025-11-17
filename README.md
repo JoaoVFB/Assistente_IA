@@ -15,7 +15,7 @@ Ideal para quem deseja aprender, estudar programação ou testar conceitos de **
 ## 🌐 Demonstração Online
 
 🚀 **Acesse o app online:**  
--> https://assistente-ia-groq.streamlit.app/
+-> <a href="https://assistente-ia-groq.streamlit.app/" target="_blank">https://assistente-ia-groq.streamlit.app/</a>
 
 ---
 
