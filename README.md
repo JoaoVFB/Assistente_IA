@@ -8,7 +8,6 @@ Disponibiliza duas interfaces:
 - 🖥 **CLI (modo terminal)**
 - 🌐 **Interface Web usando Streamlit**
 
-Ideal para quem deseja aprender, estudar programação ou testar conceitos de **IA generativa aplicada**.
 
 ---
 
